@@ -1,2 +1,16 @@
 # Jogodebola
 Obra de art e tecnologia - Visão computacional 
+
+
+***** Sobre a Obra *****
+
+
+Uma câmera webcam foi utilizada para detectar chutes sobre uma marca de penalti colocada abaixo de uma lâmpada direcional para que a câmera podesse detectar o movimento do chute através da variação de pixels no local.
+
+Material Necessário
+
+- Webcam
+- Projetor
+- Caixa de som
+- Lâmpada focal
+- Marca do penalti
